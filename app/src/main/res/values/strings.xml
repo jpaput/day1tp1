@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day1TP2</string>
+    <string name="hello">Bonjour</string>
+    <string name="bye">Aurevoir</string>
+    <string name="heyboy">Hey boy</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="connection">Connection</string>
+    <string name="first_step">First step</string>
+    <string name="welcome_to_new_app">Welcome to your new app !</string>
+</resources>

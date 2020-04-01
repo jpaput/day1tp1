@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_padding">15dp</dimen>
+    <dimen name="login_container_height">200dp</dimen>
+    <dimen name="super_large_textsize">30sp</dimen>
+</resources>
